@@ -1,16 +1,16 @@
 <template>
   <div id="app">
-    <Connect4Game />
+    <Connect4GameV2 />
   </div>
 </template>
 
 <script>
-import Connect4Game from './components/Connect4Game.vue'
+import Connect4GameV2 from './components/Connect4Gamev2.vue'
 
 export default {
   name: 'App',
   components: {
-    Connect4Game
+    Connect4GameV2
   }
 }
 </script>

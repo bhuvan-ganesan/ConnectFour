@@ -28,8 +28,8 @@ import { ref, computed, onMounted } from 'vue'
 
 export default {
   setup() {
-    const rows = 6
-    const cols = 7
+    const rows = 8
+    const cols = 8
     const board = ref(Array.from({ length: cols }, () => Array(rows).fill(0)))
     const currentPlayer = ref(1)
     const winner = ref(null)
