@@ -1,13 +1,8 @@
 # ConnectFour
-In the game ConnectFour, players select a colour and then alternately drop coloured tokens into a vertically suspended grid that has six rows and seven columns.Being the first player to line up four of their own tokens in a horizontal, vertical or diagonal fashion is the objective of the game. 
 
+In the game ConnectFour, players select a color and then alternately drop coloured tokens into a vertically suspended grid that has six rows and seven columns.Being the first player to line up four of their own tokens in a horizontal, vertical or diagonal fashion is the objective of the game.
 
-## Tech Stacks
-
-Vue 3 , Pinia , Local Storage 
-
-
-
+[Demo Link](https://connectfour.pixelscripts.in/)
 
 ## Recommended IDE Setup
 
@@ -62,3 +57,17 @@ pnpm test:e2e
 ```sh
 pnpm lint
 ```
+
+<!-- LICENSE -->
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<!-- CONTACT -->
+
+## Contact
+
+Project Link: [https://github.com/bhuvan-ganesan/ConnectFour](https://github.com/bhuvan-ganesan/ConnectFour)
+
+Email: [bhuvan.ganesan@gmail.com](mailto:bhuvan.ganesan@gmail.com)
