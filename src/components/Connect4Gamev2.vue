@@ -46,7 +46,7 @@ export default {
     }
 
     const showAbout = () => {
-      alert('Connect Four was written by Jared Ostmeyer')
+      alert('Connect Four was written by Bhuvan')
     }
 
     const dropPiece = (column) => {
